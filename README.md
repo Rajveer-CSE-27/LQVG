@@ -8,7 +8,7 @@ Language Query based Transformer with Multi-Scale Cross-Modal Alignment for Visu
 </b>
 </h1>
 
-> Meng Lan, Fu Rong, Hongzan Jiao, Zhi Gao, Lefei Zhang
+
 
 </div>
 
